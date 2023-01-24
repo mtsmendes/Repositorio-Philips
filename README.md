@@ -1,2 +1,4 @@
-# Repositorio-Philips
-Um repositório para realizar o exercício proposto.
+# PHILIPS
+# Novo projeto
+Este é um novo projeto para realização do exercício.
+Uma pequena alteração para realização do exercício.
